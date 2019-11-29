@@ -6,8 +6,8 @@ module.exports = {
     execute(message, args) {
         let numComments = args[0];
 
-        if (!message.member.hasPermission("CREATE_INSTANT_INVITE")) { // check if member has certain permissions, change if needed 
-            message.channel.sendMessage("You don't have permissions for that command."); 
+        if (!message.member.hasPermission("ADMINISTRATOR")) { // check if member has certain permissions, change if needed 
+            message.channel.send("You don't have permissions for that command."); 
         }
 
         if (!numComments || isNaN(numComments)) { // if user has not specified the number of comments to delete
