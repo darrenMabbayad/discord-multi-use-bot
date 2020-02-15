@@ -43,11 +43,11 @@ bot.on('message', message => {
             bot.commands.get('weather').execute(message, args);
             break;   
         // Administrator Commands
-        case `${prefix}ban`:
-            bot.commands.get('ban').execute(message, args);
-            break;
         case `${prefix}clearchat`:
             bot.commands.get('clearchat').execute(message, args);
+            break;
+        case `${prefix}kick`:
+            bot.commands.get('kick').execute(message, args);
             break;
         case `${prefix}mute`:
             bot.commands.get('mute').execute(message, args);
