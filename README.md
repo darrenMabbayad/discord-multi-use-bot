@@ -1,4 +1,4 @@
-##Administrator Commands
+## Administrator Commands
 
 !clearchat - clear specified number of entries in a chat log
 
@@ -12,7 +12,7 @@
 
 !userinfo - fetch user info for a specified user (this will likely be removed)
 
-##Member Commands
+## Member Commands
 
 !help - display all usable commands
 
