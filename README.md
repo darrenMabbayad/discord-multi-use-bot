@@ -18,4 +18,4 @@
 
 !remindme - set a reminder to ping a user within a specified amount of time
 
-!weather - get weather info for a specified city (information fetched from [https://openweathermap.org/](https://openweathermap.org/)
+!weather - get weather info for a specified city (information fetched from [https://openweathermap.org/](https://openweathermap.org/))
