@@ -1,4 +1,4 @@
-This is a disbord bot that I occasionally play with and only use on my personal discord server. This is
+This is a discord bot that I occasionally play with and only use on my personal discord server. This is
 run with a .bat file. More commands/functionality will eventually be added when I think of something that 
 may be useful. Currently I am thinking of working with the Imgur API for members to upload screenshots
 in the context for showing their items in the game Black Desert Online so that guild leaders can double check 
